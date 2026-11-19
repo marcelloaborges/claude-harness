@@ -1,0 +1,12 @@
+{
+  "name": "ad",
+  "version": "0.1.0",
+  "description": "Disciplined software engineering for Claude Code: sharpen the ask, ground it, build test-first, review in fresh context, land it, and hand off between sessions.",
+  "author": {
+    "name": "Marcello Borges"
+  },
+  "homepage": "https://github.com/marcelloaborges/claude-harness",
+  "repository": "https://github.com/marcelloaborges/claude-harness",
+  "license": "MIT",
+  "keywords": ["workflow", "tdd", "code-review", "adr", "spec", "hooks", "handoff"]
+}

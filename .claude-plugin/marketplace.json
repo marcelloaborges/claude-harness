@@ -1,0 +1,14 @@
+{
+  "name": "ad-harness",
+  "description": "The ad plugin: an engineering workflow harness for Claude Code.",
+  "owner": {
+    "name": "Marcello Borges"
+  },
+  "plugins": [
+    {
+      "name": "ad",
+      "source": "./",
+      "description": "Disciplined software engineering for Claude Code: sharpen the ask, ground it, build test-first, review in fresh context, land it, and hand off between sessions."
+    }
+  ]
+}
